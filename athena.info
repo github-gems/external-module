@@ -1,4 +1,0 @@
-name = Athena
-description = "Custom module for something"
-core = 7.x
-package = Github Gems
